@@ -2,7 +2,7 @@
 
 ## Overview
 
-Provides a base mount for a the Canyon GP0226 Aerobar and can be installed without dissasembling the aerobars.
+Provides a base mount for a the Canyon GP0226 Aerobar and can be installed without disassembling the aerobars.
 
 ### Design Model
 Bike used to design the part: 2025 Canyon Speedmax CF SLX

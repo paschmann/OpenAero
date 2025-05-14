@@ -2,7 +2,7 @@
 
 ## Overview
 
-Our goal is to develop a modular mounting system for bicycle accessories — ranging from water bottle holders and lights to phone and cycling computers. Partially inspired by Gridfinity, this system provides a base platform and is intended to be stackable. The motivation behind the definiton and open source nature of this project is to encourage community-driven design and innovation in the traithlon space.
+Our goal is to develop a modular mounting system for bicycle accessories — ranging from water bottle holders and lights to phone and cycling computers. Partially inspired by Gridfinity, this system provides a base platform and is intended to be stackable. The motivation behind the definition and open source nature of this project is to encourage community-driven design and innovation in the triathlon space.
 
 
 ![Grid](Images/readme.png)
@@ -10,7 +10,7 @@ Our goal is to develop a modular mounting system for bicycle accessories — ran
 
 ### Concept
 
-The concept is to create both specific and generic base mounts per bicycle model. Accessories can then be attached to the base mount using a standard pattern and design allowing you to mix and match your accesory "stack" depending on your needs. Accessories are not specific to a bike or model and are rather modular, and depend on your set of requirements.
+The concept is to create both specific and generic base mounts per bicycle model. Accessories can then be attached to the base mount using a standard pattern and design allowing you to mix and match your accessory "stack" depending on your needs. Accessories are not specific to a bike or model and are rather modular, and depend on your set of requirements.
 
 ### Design
 
@@ -20,7 +20,7 @@ Standardized rectangular base mounting system of 21mm x 47mm with two M6 bolt pa
 
 ### Printing
 
-All bases and parts are intended to be 3D printed (many do require supports), and some components require hardward to be installed after printing is complete and is fairly straight forward.
+All bases and parts are intended to be 3D printed (many do require supports), and some components require hardware to be installed after printing is complete and is fairly straight forward.
 
 ### Installation
 
@@ -43,7 +43,7 @@ Bolt - +- 5mm
 
 Total bolt length: 35mm
 
-Extreamly important: ALWAYS assemble the base and accessories before installing them on your bike, to ensure no bolts or hardward will scratch or protude into your bike frame or mounting hardware.
+Extremely important: ALWAYS assemble the base and accessories before installing them on your bike, to ensure no bolts or hardware will scratch or protrude into your bike frame or mounting hardware.
 
 ## Want to help?
 
