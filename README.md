@@ -12,7 +12,7 @@ The concept is to create both specific and generic base mounts per bicycle model
 
 ### Design
 
-Standardized rectangular base mounting system of 21mm x 47mm with two M6 bolt pattern 25mm apart in the center.
+Standardized rectangular base mounting system of 21mm x 47mm with two M6 bolt pattern 25mm apart in the center. 
 
 ### Printing
 
