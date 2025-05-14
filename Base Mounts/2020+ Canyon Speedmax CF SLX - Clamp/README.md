@@ -1,6 +1,8 @@
 # 2020+ Canyon Speedmax CF SLX - Clamp Version 1
 
-![Design Screenshot](Images/Design v1.png)
+## Overview
+
+Provides a base mount for a the Canyon GP0226 Aerobar and can be installed without dissasembling the aerobars.
 
 ### Design Model
 Bike used to design the part: 2025 Canyon Speedmax CF SLX
@@ -24,3 +26,7 @@ Bolt Depth Required: 12.5mm
 This version of the Bike Mount is clamp based which implies you do not need to remove the Speedmax extensions and can simply be bolted on. We recommend applying some tape to the mount area to improve grip and stability. Ne sure not to over tighten bolts (suggested torque, as for most carbon parts) is 5Nm.
 
 NB: Be sure that the accessory bolts do not protrude through the base and come into contact of your bars.
+
+### Design
+
+![Design Screenshot](Images/Design-Clamp-v1.png)
