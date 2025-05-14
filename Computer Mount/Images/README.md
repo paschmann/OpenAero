@@ -1,6 +1,7 @@
 # Computer Mount
 
-![Design Screenshot](Images/Design Computer Mount v1.png)
+![Design Screenshot](Images/Design-Computer-Mount-v1.png)
+
 
 ### Specs
 Height: 5mm
