@@ -45,6 +45,14 @@ Total bolt length: 35mm
 
 Extremely important: ALWAYS assemble the base and accessories before installing them on your bike, to ensure no bolts or hardware will scratch or protrude into your bike frame or mounting hardware.
 
+### ⚠️ Risk Disclaimer
+This project and its associated files are provided for informational and non-commercial purposes only. All components are intended for mounting lightweight bicycle accessories only (e.g., lights, bottles, small electronics). These parts are not designed, tested, or approved for any load-bearing or safety-critical applications involving human weight or structural support.
+
+By using or modifying these designs, you agree to assume all risks and responsibilities. The developer(s) and contributors are not liable for any injury, damage, or loss arising from the use or misuse of these components.
+
+Always use common sense and test parts thoroughly in safe conditions before deploying them on a bicycle.
+
+
 ## Want to help?
 
 Read our [Contributing Guide](CONTRIBUTING.md)
