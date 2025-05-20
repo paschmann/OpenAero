@@ -2,7 +2,7 @@
 
 ## Overview
 
-Our goal is to develop a modular mounting system for bicycle accessories — ranging from water bottle holders and lights to phone and cycling computers. Partially inspired by Gridfinity, this system provides a base platform and is intended to be stackable. The motivation behind the definition and open source nature of this project is to encourage community-driven design and innovation in the triathlon space.
+The goal is to develop a modular mounting system for bicycle accessories — ranging from water bottle holders and lights to phone and cycling computers. Partially inspired by Gridfinity, this system provides a base platform and is intended to be stackable. The motivation behind the definition and open source nature of this project is to encourage community-driven design and innovation in the triathlon, and cycling space.
 
 
 ![Grid](Images/readme.png)
@@ -10,7 +10,9 @@ Our goal is to develop a modular mounting system for bicycle accessories — ran
 
 ### Concept
 
-The concept is to create both specific and generic base mounts per bicycle model. Accessories can then be attached to the base mount using a standard pattern and design allowing you to mix and match your accessory "stack" depending on your needs. Accessories are not specific to a bike or model and are rather modular, and depend on your set of requirements.
+The fundamental concept is to create both specific and generic base mounts per bicycle model, whereby accessories can then be attached to the base mount using a standard pattern and design allowing you to mix and match your accessory "stack" depending on your needs. Accessories are not specific to a bike or model and are rather modular, and depend on your set of requirements.
+
+A base mount could be the seat post, handlebars, aerobars, frame or bottle cage.
 
 ### Design
 
@@ -20,7 +22,7 @@ Standardized rectangular base mounting system of 21mm x 47mm with two M6 bolt pa
 
 ### Printing
 
-All bases and parts are intended to be 3D printed (many do require supports), and some components require hardware to be installed after printing is complete and is fairly straight forward.
+All bases and parts are intended to be 3D printed (many require supports), and most components require mounting hardware to be installed after printing is complete and is fairly straight forward. In all cases we recommend stainless steel, using locknut (blue) and torquing according to your manufacturers recommendations, especially when mounting the base or accessories to carbon fiber.
 
 ### Installation
 
