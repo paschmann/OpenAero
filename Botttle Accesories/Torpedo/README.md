@@ -18,7 +18,7 @@ Bolt Length Required: 5mm
 
 None
 
-Note: Your water bottle cage bolts should be long enough to extend through this base (5mm).
+Note: Your water bottle cage bolts should be long enough to extend through this base which is 5mm thick.
 
 ### Installation Notes
 

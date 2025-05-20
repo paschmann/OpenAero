@@ -1,5 +1,7 @@
 # Computer Mount
 
+ ### 🛑 Currently has an issue with being too flexible and could break quite easily. Currently being re-designed.
+
 ## Overview
 
 Provides a computer mount for the OpenAero system, and is raised slightly to provide access to any mounting or holes beneath the accessory. Requires a computer mount insert to be printed or purchased.
