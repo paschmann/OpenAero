@@ -1,4 +1,4 @@
-# Spacer - 5mm
+# Spacer - 5mm - Standard
 
 ## Overview
 
@@ -22,4 +22,4 @@ None
 None
 
 ### Design
-![Design Screenshot](Images/Design-Spacer-5mm-v1.png)
+![Design Screenshot](Images/Design-Spacer-5mm-Standard-v1.png)

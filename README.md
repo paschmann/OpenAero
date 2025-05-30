@@ -16,9 +16,18 @@ A base mount could be the seat post, handlebars, aerobars, frame or bottle cage.
 
 ### Design
 
+Standard
+
 Standardized rectangular base mounting system of 21mm x 47mm with two M6 bolt pattern 25mm apart in the center. 
 
-![Spacer](Images/spacer.png)
+![Spacer](Images/spacer_standard.png)
+
+Small
+
+A small rectangular base mounting system of 12mm x 23.5mm with one M5 bolt in the center. 
+
+![Spacer](Images/spacer_small.png)
+
 
 ### Printing
 

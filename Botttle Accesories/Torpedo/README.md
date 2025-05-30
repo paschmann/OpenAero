@@ -11,7 +11,7 @@ Width: ~ 38mm\
 Length: 148mm
 
 ### Accessory Mount Spec
-Base Mount: 21mm x 47mm (Standard)\
+Base Mount: Standard Bottle Cage
 Bolt Length Required: 5mm
 
 ### Hardware Required

@@ -1,20 +1,20 @@
-# 2020+ Canyon Speedmax CF SLX - Slide Version 1
+# 2020+ Canyon Speedmax CF SLX - Slide Double Sided - Small v1
 
 ## Overview
 
-Provides a base mount for a the Canyon GP0226 Aerobar and can be installed by disassembling the aerobars, this is relatively easy if you are using wireless blips. 
+Provides a base mount for a the Canyon GP0226 Aerobar and can be installed by disassembling the aerobars, this is relatively easy if you are using wireless blips. The accepts two small accessories such as computer mounts or a GoPro. Untested with water bottles, etc.
 
 ### Design Model
 Bike used to design the part: 2025 Canyon Speedmax CF SLX
 
 ### Specs
-Height: 24mm
-Width:
-Length:
+Height: 63mm
+Width: 27mm
+Length: 55mm
 
 ### Accessory Mount Specs
-Base Mount: (Standard) 21mm x 47mm
-Bolt Depth Required: 12.5mm
+Base Mount: 12mm x 23.5mm (Small)
+Bolt Depth Required: 6mm
 
 ### Hardware Required
 
@@ -29,4 +29,4 @@ NB: Be sure that the accessory bolts do not protrude through the base and come i
 
 ### Design
 
-![Design Screenshot](Images/Design-Slide-v1.png)
+![Design Screenshot](Images/Design-Slide-Double-Small-v1.png)
